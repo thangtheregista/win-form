@@ -1,0 +1,10 @@
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\bin\Debug\Project2WFA.exe.config
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\bin\Debug\Project2WFA.exe
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\bin\Debug\Project2WFA.pdb
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\obj\Debug\Project2WFA.csproj.AssemblyReference.cache
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\obj\Debug\Project2WFA.Form1.resources
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\obj\Debug\Project2WFA.Properties.Resources.resources
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\obj\Debug\Project2WFA.csproj.GenerateResource.cache
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\obj\Debug\Project2WFA.csproj.CoreCompileInputs.cache
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\obj\Debug\Project2WFA.exe
+C:\Users\Sf\source\repos\Project2WFA\Project2WFA\obj\Debug\Project2WFA.pdb
